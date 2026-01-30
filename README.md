@@ -34,5 +34,6 @@ The objective of this lab is to simulate the daily workflow of a **SOC Level 1 a
 
 Screenshots related to the lab and alert triage workflow are stored in:
 
-![alert](screenshots/alert.png&analyze-alert.png)
+![alert](screenshots/alert-triage.png)
+![alert](screenshots/analyze-alert.png)
 
